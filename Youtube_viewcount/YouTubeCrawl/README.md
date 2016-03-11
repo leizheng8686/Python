@@ -1,10 +1,8 @@
 A YouTube video history metadata crawler (ytcrawl)
 ========================================
 
-Author: Honglin Yu
-Email: yuhonglin1986@gmail.com
-
-
+Original author: Honglin Yu
+GitHub:https://github.com/yuhonglin/YTCrawl
 
 About
 -----
